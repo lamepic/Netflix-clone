@@ -1,4 +1,4 @@
-# Todo-App
+# Netflix-clone
 
 Netflix-clone made with react
 
