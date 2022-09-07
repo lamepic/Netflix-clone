@@ -1,6 +1,6 @@
 # Netflix-clone
 
-Netflix-clone made with react
+Netflix-clone made with react.
 
 ## Getting Started
 
